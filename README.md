@@ -1,5 +1,6 @@
 # Use Voice in a back-and-forth conversation with any text Foundational Model supported by Amazon Bedrock.
 
+Cloned and edited from https://github.com/aws-samples/amazon-bedrock-voice-conversation
 This repository provides a sample implementation of using [Amazon Bedrock](https://aws.amazon.com/bedrock/) and other supporting AWS services to have a voice conversation with a Foundational AI model. The code demonstrates how to build an application with GenAI that supports natural back-and-forth voice conversations.
 
 Key aspects shown in the code:
